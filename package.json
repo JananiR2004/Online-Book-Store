@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JananiR2004/Online-Book-Store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JananiR2004/Online-Book-Store/issues"
+  },
+  "homepage": "https://github.com/JananiR2004/Online-Book-Store#readme",
   "description": ""
 }
